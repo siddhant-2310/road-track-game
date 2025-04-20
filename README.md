@@ -25,4 +25,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/road-runner-game.git
+   git clone https://github.com/siddhant-2310/road-runner-game.git
