@@ -14,7 +14,7 @@
 ---
 
 ### 🕹️ In-Game Action
-![Gameplay](screenshots/Screenshot 2025-04-02 193411.png)
+![Gameplay](screenshots/Screenshot%202025-04-02%20193411.png)
 
 ## 🕹️ Controls
 
