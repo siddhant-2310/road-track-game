@@ -13,6 +13,9 @@
 
 ---
 
+### 🕹️ In-Game Action
+![Gameplay](screenshots/Screenshot 2025-04-02 193411.png)
+
 ## 🕹️ Controls
 
 - **←** Move Left  
